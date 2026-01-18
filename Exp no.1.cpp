@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+
+  int a[5];
+
+  cout << "Enter numbers: " << endl;
+
+  //store value in array
+  for (int i = 0; i < 5;i++) {
+    cin >> a[i];
+  }
+
+  cout << "The numbers are: ";
+
+  //display value from array
+  for (int i = 0; i < 5;i++) {
+    cout << a[i] << " ";
+  }
+
+  return 0;
+}
