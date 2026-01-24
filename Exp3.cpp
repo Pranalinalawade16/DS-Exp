@@ -16,7 +16,7 @@ int main() {
    
    cout<<"Select the Seraching or Sorting Technique:"<<endl;
    cout<<"1.Liner Search"<<endl;
-   cout<<"2.Binary Search(for sorted array"<<endl;
+   cout<<"2.Binary Search(for sorted array)"<<endl;
    cout<<"3.Bubble Sort"<<endl;
    cout<<"4.Inserction Sort"<<endl;
    cout<<"5.Exit"<<endl;
