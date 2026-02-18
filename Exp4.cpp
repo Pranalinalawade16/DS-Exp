@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// ---------- Quick Sort ----------
+// ---------- Quick Sort ---------
 int partition(int a[], int low, int high)
 {
     int pivot = a[high];
